@@ -26,7 +26,6 @@ group :test do
   gem "simplecov", "0.21.2", require: false
     gem "docile", "1.1.5", require: false
   gem "simplecov-rcov", "0.2.3", require: false
-  gem "puma", "5.2.2", require: false
 
   gem "db-query-matchers", "0.10.0"
   gem "rspec", "3.10.0"
